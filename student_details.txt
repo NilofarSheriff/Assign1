@@ -1,0 +1,29 @@
+Students Details
+
+
+
+Name:Nilofar
+ age:21
+ Grade:O
+
+ Name:Zamruth
+ age:20
+ Grade:A+
+
+ Name:Mehar
+ age:19
+ Grade:A
+
+ Name:Asif
+ age:21
+ Grade:O
+
+Name:Varshini
+ age:21
+ Grade:O
+
+Name:Israth
+ age:21
+ Grade:O
+
+
